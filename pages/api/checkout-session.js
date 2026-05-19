@@ -1,0 +1,1 @@
+// integração Stripe para pagamento da logo

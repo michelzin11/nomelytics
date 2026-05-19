@@ -1,0 +1,1 @@
+// componente do quiz de geração de logo

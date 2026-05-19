@@ -1,0 +1,1 @@
+// endpoint simulado para verificar domínio

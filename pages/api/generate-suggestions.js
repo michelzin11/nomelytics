@@ -1,0 +1,1 @@
+// endpoint simulado para sugestões de nome

@@ -1,0 +1,1 @@
+// endpoint para geração de logo com marca d’água
